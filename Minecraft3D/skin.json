@@ -47,6 +47,16 @@
       "id": 1,
       "name_skin": "Squid Guard",
       "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/squid_guard_download.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Squid Guard",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/squid_guard_download.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Squid Guard",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/squid_guard_download.png"
     }
   ]
 }
