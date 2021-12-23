@@ -170,6 +170,106 @@
       "id": 30,
       "name_skin": "Cool Skin",
       "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/Cool_Skins.png"
+    },
+        {
+      "id": 31,
+      "name_skin": "3D 1",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d1.png"
+    },
+        {
+      "id": 32,
+      "name_skin": "3D 2",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d2.png"
+    },
+        {
+      "id": 33,
+      "name_skin": "3D 3",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d3.png"
+    },
+        {
+      "id": 34,
+      "name_skin": "3D 4",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d4.png"
+    },
+        {
+      "id": 35,
+      "name_skin": "3D 5",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d5.png"
+    },
+        {
+      "id": 36,
+      "name_skin": "3D 6",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d6"
+    },
+        {
+      "id": 37,
+      "name_skin": "3D 7",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d7"
+    },
+        {
+      "id": 38,
+      "name_skin": "3D 8",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d8.png"
+    },
+        {
+      "id": 39,
+      "name_skin": "3D 9",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d9.png"
+    },
+        {
+      "id": 40,
+      "name_skin": "3D 10",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d10.png"
+    },
+        {
+      "id": 41,
+      "name_skin": "3D 11",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d11.png"
+    },
+        {
+      "id": 42,
+      "name_skin": "3D 12",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d12.png"
+    },
+        {
+      "id": 43,
+      "name_skin": "3D 13",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d13.png"
+    },
+        {
+      "id": 44,
+      "name_skin": "3D 14",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d14.png"
+    },
+        {
+      "id": 45,
+      "name_skin": "3D 15",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d15.png"
+    },
+        {
+      "id": 46,
+      "name_skin": "3D 16",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d16.png"
+    },
+        {
+      "id": 47,
+      "name_skin": "3D 17",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d17.png"
+    },
+        {
+      "id": 48,
+      "name_skin": "3D 18",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d18.png"
+    },
+        {
+      "id": 49,
+      "name_skin": "3D 19",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d19.png"
+    },
+        {
+      "id": 50,
+      "name_skin": "3D 20",
+      "install_skin": "https://pixelgit987.github.io/Minecraft3D/skin/3d20.png"
     }
   ]
 }
