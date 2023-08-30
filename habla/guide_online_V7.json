@@ -16,11 +16,11 @@
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "Finance",
+      "high_paying_keyword_2": "Insurance",
+      "high_paying_keyword_3": "Claim",
+      "high_paying_keyword_4": "Attorney",
+      "high_paying_keyword_5": "Recovery",
       "status_app": "0",
       "link_redirect": "https://"
     }
