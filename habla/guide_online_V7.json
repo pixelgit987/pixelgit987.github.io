@@ -1,0 +1,84 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": 
+[
+    {
+      "id":1,
+      "title":"appname",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": ""
+
+    },
+    {
+      "id": 2,
+      "name_category": "Medium",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Hard",
+      "image": ""
+
+    }
+  ],
+  
+    "Data": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Como saber con quien habla mi pareja",
+      "image": "https://pixelgit987.github.io/habla/1615250615843-pareja-infiel-en-whatsapp.webp",
+      "description": "El truco de WhatsApp con el que puedes ver con quién habla tu pareja",
+      "link": "https://pixelgit987.github.io/habla/guide_1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Cómo saber con quién habla una persona por whatsapp",
+      "image": "https://pixelgit987.github.io/habla/C%C3%B3mo-saber-con-qui%C3%A9n-habla-una-persona-por-whatsapp.jpg",
+      "description": "Todos sabemos que en la mayoría de las relaciones es casi imposible no tener la curiosidad de saber con quién habla la otra persona por whatsapp",
+      "link": "https://pixelgit987.github.io/habla/guide_2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Medium",
+      "title": "¿Cómo saber con quién chatea tu pareja en WhatsApp y FB Messenger?",
+      "image": "https://pixelgit987.github.io/habla/RNWRSEWPNFGEHH3NAGC22TVYGA.jpg",
+      "description": "Esta pregunta es muy popular entre los usuarios de WhatsApp y Facebook Messenger. Google Play cuenta con aplicaciones externas que dan resultados increíbles y responden esta pregunta. ",
+      "link": "https://pixelgit987.github.io/habla/guide_3.html"
+    }
+  ]
+}
