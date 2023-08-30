@@ -3,7 +3,7 @@
     {
       "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"NULL",
-      "main_ads_banner": "qwerty1234",
+      "main_ads_banner": "NULL",
       "main_ads_intertitial":"42469680b02a03a9",
       "main_ads_natives":"",
       "backup_ads_natives":"",
