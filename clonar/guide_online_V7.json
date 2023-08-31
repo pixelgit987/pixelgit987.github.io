@@ -1,0 +1,92 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"NULL",
+      "main_ads_banner": "qwerty12345",
+      "main_ads_intertitial":"8c2ebb9efed50ee0",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 0,
+      "initialize_sdk":"8c2ebb9efed50ee0",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Finance",
+      "high_paying_keyword_2": "Insurance",
+      "high_paying_keyword_3": "Claim",
+      "high_paying_keyword_4": "Attorney",
+      "high_paying_keyword_5": "Recovery",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More":
+  [
+    {
+      "id":1,
+      "title":"appname",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": ""
+
+    },
+    {
+      "id": 2,
+      "name_category": "Medium",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Hard",
+      "image": ""
+
+    }
+  ],
+
+"Data": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Como clonar wasap com QR Code?",
+      "image": "https://pixelgit987.github.io/clonar/clonarfeature.png",
+      "description": "Como clonar wasap com QR Code?",
+      "link": "https://pixelgit987.github.io/clonar/guide_1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Como clonar wasap a distancia",
+      "image": "https://pixelgit987.github.io/clonar/207.-wa-clone.jpg",
+      "description": "Cómo clonar o wasap pelo numero a distancia",
+      "link": "https://pixelgit987.github.io/clonar/guide_2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Medium",
+      "title": "Como clonar wasap pelo numero",
+      "image": "https://pixelgit987.github.io/clonar/info.cloneapp.avatarmaster.intl.png",
+      "description": "como clonar o wasap pelo numero?",
+      "link": "https://pixelgit987.github.io/clonar/guide_3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Medium",
+      "title": "Qual a melhor forma de se clonar o wasap?",
+      "image": "https://pixelgit987.github.io/clonar/phone1.png",
+      "description": "Qual a melhor forma de se clonar o wasap?",
+      "link": "https://pixelgit987.github.io/clonar/guide_4.html"
+    }
+  ]
+}
