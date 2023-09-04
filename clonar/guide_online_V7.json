@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"NULL",
+      "select_main_ads": "APPLOVIN-D-NB",
+      "select_backup_ads":"null",
       "main_ads_banner": "",
       "main_ads_intertitial":"8c2ebb9efed50ee0",
       "main_ads_natives":"",
